@@ -5,7 +5,7 @@
 
 <h2 align="center">¡Bienvenidos/as a mi GitHub! 👋<h2/>
 
-### ✨ Acerca de mí 👋
+### ✨ Acerca de mí 
 
  - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), Full Stack Developer Trainee - Junior (Egg). 
 
