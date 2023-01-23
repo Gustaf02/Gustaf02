@@ -13,7 +13,7 @@
 
 - 👯 He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de algunos artículos científicos. Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
  
- - 🌱 Durante estos últimos años, continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación de la UTN-SR, ISPC entre otros).  
+ - 🌱 Durante estos últimos años, he seguido mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación de la UTN-SR, ISPC entre otros).  
 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Actualmente, como Full Stack Developer JAVA Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
 
