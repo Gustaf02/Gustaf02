@@ -3,21 +3,20 @@
 <img src="https://user-images.githubusercontent.com/92409193/213973388-534f3f73-1420-4c40-8a89-346043a6174c.jpg">
 </p>
 
-<h2 align="center">¡Bienvenidos/as a mi GitHub! 👋<h2/>
+<h2 align="center">¡Hola a todos/as!👋¡Bienvenidos/as a mi GitHub!<h2/>
 
 ### ✨ Acerca de mí 
 
  - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), Full Stack Developer Trainee - Junior (Egg). 
-
-- 🔭 Me he desempeñado laboralmente en algunas organizaciones públicas (DINAADyF, OTC) y privadas (Ausenco Vector). Actualmente, en tareas de docencia.
-
-- 👯 He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de algunos artículos científicos. Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
  
- - 🌱 Durante estos últimos años, he seguido mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación de la UTN-SR, ISPC entre otros).  
-
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Actualmente, como Full Stack Developer JAVA Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
-
-- 📫 Pueden contactarme al correo: gustavodelcuenco@gmail.com
+ - 👯 He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de artículos científicos. Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
+ 
+- 🚀 Durante estos últimos años, he seguido mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación en la UTN-SR, Tecnicatura Superior en
+Desarrollo Web y Aplicaciones Digitales en el ISPC y cuantiosos cursos). 
+    
+- 🌱 Me he desempeñado laboralmente en organizaciones tanto públicas (DINAADyF, OTC) como privadas (Ausenco Vector). Actualmente, en tareas de docencia.
+ 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer JAVA Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
 
 ### 💻 Tecnologías utilizadas
   
