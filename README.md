@@ -9,14 +9,14 @@
 
  - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), Full Stack Developer Trainee - Junior (Egg). 
  
- - 👯 He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de artículos científicos. Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
+ - 👯 Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de artículos científicos. 
  
-- 🚀 Durante estos últimos años, he seguido mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación en la UTN-SR, Tecnicatura Superior en
+- 🚀 Durante estos últimos años, continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación en la UTN-SR, Tecnicatura Superior en
 Desarrollo Web y Aplicaciones Digitales en el ISPC y cuantiosos cursos). 
     
 - 🌱 Me he desempeñado laboralmente en organizaciones tanto públicas (DINAADyF, OTC) como privadas (Ausenco Vector). Actualmente, en tareas de docencia.
  
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer Trainee – Junior, me interesa seguir creciendo en espacios laborales acordes. 
 
 ### 💻 Tecnologías utilizadas
   
