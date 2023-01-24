@@ -16,7 +16,7 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC y cuantiosos cursos).
     
 - 🌱 Me he desempeñado laboralmente en organizaciones tanto públicas (DINAADyF, OTC) como privadas (Ausenco Vector). Actualmente, en tareas de docencia.
  
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer JAVA Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer Trainee – Junior, me interesa continuar creciendo en espacios laborales acordes. 
 
 ### 💻 Tecnologías utilizadas
   
