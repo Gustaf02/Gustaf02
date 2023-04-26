@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/92409193/213973388-534f3f73-1420-4c40-8a89-346043a6174c.jpg">
+<img src="https://user-images.githubusercontent.com/92409193/234450413-0827687e-fc42-4ad8-be45-a7e0712c6c16.gif">
 </p>
 
 <h2 align="center">¡Hola a todos/as!👋¡Bienvenidos/as a mi GitHub!<h2/>
