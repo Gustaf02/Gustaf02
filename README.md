@@ -32,6 +32,13 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+---
+## My stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustaf02&theme=synthwave&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaf02&show_icons=true&theme=tokyonight)
+
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
   
