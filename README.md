@@ -33,7 +33,7 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
-## My stats 
+### My stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustaf02&theme=synthwave&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
