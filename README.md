@@ -11,7 +11,9 @@
  
  - 👯 Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
  
- - ✍️ He participado en numerosos proyectos de investigación en la FCPyS (UNCuyo) y en la publicación de artículos científicos. 
+ - ✍️ He participado en numerosos proyectos de investigación (FFyL/UNCuyo, FCPyS/UNCuyo, FONCyT y CONICET)
+ 
+ - 👨‍🔬 He contribuido a la publicación de artículos científicos. 
  
 - 🚀 Continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación en la UTN-SR, Tecnicatura Superior en
 Desarrollo Web y Aplicaciones Digitales en el ISPC). 
@@ -39,6 +41,8 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaf02&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf02&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
   
@@ -46,6 +50,11 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 <a href="https://www.instagram.com/gustavo_o_mza/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/gustavo.ortiz.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   </p>
+
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/Gustaf02/count.svg" alt="Hello world" />
+  
 <h3 align="center">¡Gracias por visitar mi página!💫<h3/>
  
  <p align="center">
