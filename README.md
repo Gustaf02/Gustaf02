@@ -37,12 +37,13 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 ---
 ### My stats 
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustaf02&theme=synthwave&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaf02&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf02&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
   
