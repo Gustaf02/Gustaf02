@@ -11,7 +11,7 @@
  
  - 👯 Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
  
- - ✍️ He participado en numerosos proyectos de investigación (FFyL/UNCuyo, FCPyS/UNCuyo, FONCyT y CONICET)
+ - ✍️ He participado en numerosos proyectos de investigación (SECTYP/UNCuyo, FCPyS/UNCuyo, FONCyT y CONICET)
  
  - 👨‍🔬 He contribuido a la publicación de artículos científicos. 
  
