@@ -7,20 +7,21 @@
 
 ### ✨ Acerca de mí 
 
- - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), Full Stack Developer Trainee - Junior (Egg). 
- 
+ - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), 
+
+ - 👨‍💻 En el ámbito de la informática y la tecnología: Programador (Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales en el ISPC), Full Stack Developer Trainee - Junior (Egg).
+
  - 👯 Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
  
- - ✍️ He participado en numerosos proyectos de investigación (SECTYP/UNCuyo, FCPyS/UNCuyo, FONCyT y CONICET)
+ - ✍️ He participado en numerosos proyectos de investigación (CONICET, FONCyT, SECTYP/UNCuyo y FCPyS/UNCuyo)
  
- - 👨‍🔬 He contribuido a la publicación de artículos científicos. 
+ - 👨‍🔬 He contribuido a la publicación de artículos científicos y capítulos de libros. 
  
-- 🚀 Continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura de Programación en la UTN-SR, Tecnicatura Superior en
-Desarrollo Web y Aplicaciones Digitales en el ISPC). 
+- 🚀 Continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura Universitaria de Programación en la UTN-FRSR) 
     
 - 🌱 Me he desempeñado laboralmente en organizaciones tanto públicas (DINAADyF, OTC) como privadas (Ausenco Vector). Actualmente, en tareas de docencia.
  
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Full Stack Developer Trainee – Junior, me interesa seguir creciendo en espacios laborales acordes. 
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Programador y Full Stack Developer Trainee – Junior, me interesa seguir creciendo en espacios laborales acordes. 
 
 ### 💻 Tecnologías utilizadas
   
@@ -46,19 +47,22 @@ Desarrollo Web y Aplicaciones Digitales en el ISPC).
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaf02&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf02&count_public=true&theme=dracula">
+
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/Gustaf02/count.svg" alt="Hello world" />
+
 </div>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
+ ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
   
 <a href="https://www.linkedin.com/in/gustavo-ortiz-14b447211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/gustavo_o_mza/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/gustavo.ortiz.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   </p>
 
-### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/Gustaf02/count.svg" alt="Hello world" />
-  
 <h3 align="center">¡Gracias por visitar mi página!💫<h3/>
  
  <p align="center">
