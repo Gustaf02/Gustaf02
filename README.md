@@ -20,6 +20,8 @@
 - 🚀 Continúo mis estudios en el ámbito de la ciencia y la tecnología (Tecnicatura Universitaria de Programación en la UTN-FRSR) 
     
 - 🌱 Me he desempeñado laboralmente en organizaciones tanto públicas (DINAADyF, OTC) como privadas (Ausenco Vector). Actualmente, en tareas de docencia.
+
+- 🖥 Práctica profesional como Programador Full Stack en INKUA. 
  
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Como Programador y Full Stack Developer Trainee – Junior, me interesa seguir creciendo en espacios laborales acordes. 
 
