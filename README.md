@@ -9,9 +9,9 @@
 
  - 🔭 Soy Gustavo Ortiz, Doctor en Ciencias Sociales (UNCuyo), Magíster en Política y Planificación Social (UNCuyo), Especialista en Gestión Social (UNCuyo), Especialista en Políticas Comunitarias (UNLA), Experto Universitario en Drogadependencias (Universidad Complutense de Madrid), Licenciado en Sociología (UNCuyo), 
 
- - 👨‍💻 En el ámbito de la informática y la tecnología: Programador (Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales en el ISPC), Full Stack Developer Trainee - Junior (Egg).
+ - 👨‍💻 En el ámbito de la informática y la tecnología: Programador y Desarrollador Full Stack (Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales en el ISPC), Full Stack Developer Trainee - Junior (Egg).
 
- - 👯 Becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología en dos oportunidades. 
+ - 👯 En dos oportunidades becado por FONCyT  -Agencia de Promoción de Ciencia y Tecnología. 
  
  - ✍️ He participado en numerosos proyectos de investigación (CONICET, FONCyT, SECTYP/UNCuyo y FCPyS/UNCuyo)
  
