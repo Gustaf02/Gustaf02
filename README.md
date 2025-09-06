@@ -51,11 +51,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaf02&count_public=true&theme=dracula">
 
-### 👀 visitor count
-
-![Visitor count](https://visitor-badge.glitch.me/badge?page_id=Gustaf02.Gustaf02)
-
-</div>
 
  ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Aquí pueden encontrarme!  
   
