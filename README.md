@@ -53,7 +53,7 @@
 
 ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/Gustaf02/count.svg" alt="Hello world" />
+<p align="left"> <img src="https://hits.seeyou.space/hits?url=https%3A%2F%2Fgithub.com%2FGustaf02%2Fhits&amp;count_bg=%237CD9D9&amp;title_bg=%23181818&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=Views&amp;edge_flat=false"> </p>
 
 </div>
 
