@@ -53,7 +53,7 @@
 
 ### 👀 visitor count
 
-![Visitor Count](https://hits.seeyou.space/hits?url=https%3A%2F%2Fgithub.com%2FGustaf02&count_bg=%237CD9D9&title_bg=%23181818&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![Visitor count](https://visitor-badge.glitch.me/badge?page_id=Gustaf02.Gustaf02)
 
 </div>
 
